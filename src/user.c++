@@ -5,11 +5,11 @@ void login() {
     std::string password;
 
     clear_terminal();
-    
+
     // header
     std::cout << "\n--- LOGIN ---\n";
 
-
+    
 
 }
 

@@ -5,7 +5,7 @@ void print_welcome() {
     std::cout << "\033[34mWelcome to Wordapt©\033[0m\n";
     std::cout << "\033[2m\033[33mBy Pavith Preet Singh Malhotra. \033[0m\n";
     std::cout << "\033[1m\033[32m-------------------------------\033[0m\n";
-    std::cout << "\033[1mMAIN MENU: \n\n";
+    std::cout << "\033[1mMAIN MENU: \033[0m\n\n\n";
 }
 
 void print_menu() {
@@ -49,7 +49,8 @@ void print_menu() {
         std::cout << "\nProceeding to Region Selection...\n";
         region();
     } else {
-        std::cout << "\nInvalid choice!\n";
+        std::cout << "\nInvalid choice!\n\n";
+        print_menu();
     }
 
 
