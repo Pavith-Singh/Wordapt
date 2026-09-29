@@ -29,5 +29,8 @@ void difficulty();
 void stats();
 void leaderboard();
 
+// UNIVERSAL HELPERS
+void clear_terminal();
+
 
 #endif

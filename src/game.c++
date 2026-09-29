@@ -1,4 +1,4 @@
-#include "wordapt.h"
+#include "wordapt.h++"
 
 void difficulty() {
     // Placeholder for difficulty selection functionality

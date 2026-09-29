@@ -1,4 +1,4 @@
-#include "wordapt.h"
+#include "wordapt.h++"
 
 void print_welcome() {
     std::cout << "\033[1m\033[31m-------------------------------\n";

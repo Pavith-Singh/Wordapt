@@ -1,4 +1,4 @@
-#include "wordapt.h"
+#include "wordapt.h++"
 
 void stats() {
     // Placeholder for stats functionality

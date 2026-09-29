@@ -1,14 +1,15 @@
 CXX = g++
 CXXFLAGS = -Wall -Wextra -std=c++17
 
-SRC = src/main.cpp \
-      src/menu.cpp \
-      src/game.cpp \
-      src/user.cpp \
-      src/stats.cpp \
-      src/ml.cpp \
-      src/dictionary.cpp \
-      src/database.cpp
+SRC = src/main.c++ \
+      src/menu.c++ \
+      src/game.c++ \
+      src/user.c++ \
+      src/stats.c++ \
+      src/ml.c++ \
+      src/dictionary.c++ \
+      src/database.c++ \
+      src/universal_helpers.c++
 
 TARGET = wordapt
 

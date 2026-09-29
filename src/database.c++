@@ -1,4 +1,4 @@
-#include "wordapt.h"
+#include "wordapt.h++"
 
 // PostgreSQL connection
 // Save users

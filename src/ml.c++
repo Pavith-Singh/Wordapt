@@ -1,4 +1,4 @@
-#include "wordapt.h"
+#include "wordapt.h++"
 
 // Adaptive difficulty logic
 // Decision tree logic
